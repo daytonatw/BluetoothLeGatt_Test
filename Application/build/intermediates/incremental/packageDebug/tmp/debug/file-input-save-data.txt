@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu May 03 17:58:54 CST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\temp\\android\\sensortag\\test\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
